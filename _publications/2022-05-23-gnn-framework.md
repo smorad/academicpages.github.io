@@ -9,6 +9,7 @@ paperurl:
 citation: 
 ---
 
+[IEEExplore](https://ieeexplore.ieee.org/abstract/document/9811744)
 
 Running a distributed robot system using a GNN
 
@@ -22,5 +23,3 @@ Running a distributed robot system using a GNN
   organization={IEEE}
 }
 ```
-
-[IEEExplore](https://ieeexplore.ieee.org/abstract/document/9811744)

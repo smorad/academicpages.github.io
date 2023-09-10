@@ -15,7 +15,7 @@ Education
 * MS in Aerospace Engineering, University of Arizona, 2019
 * BS in Honors Computer Science, University of California at Santa Cruz, 2015
 
-Work experience
+Work Experience
 ======
 * RLlib 2022-2023: Software Engineer
 * NASA Jet Propulsion Lab 2018-2019: Graduate Research Intern
@@ -37,28 +37,28 @@ Skills
 * Tools
   * GNU Coreutils
   * Linux
-  * BSD
 
 
 
 Publications
 ======
-  <ul>{% for post in site.publications %}
+  <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
 Talks
 ======
-  <ul>{% for post in site.talks %}
+  <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
 Teaching
 ======
-  <ul>{% for post in site.teaching %}
+  <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+Service and Leadership
 ======
-* Currently signed in to 43 different slack teams
+* ICLR reviewer (2024)
+* NeurIPS reviewer (2023)
