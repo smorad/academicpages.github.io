@@ -9,56 +9,48 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* PhD in Computer Science, University of Cambridge, 2024 (expected)
-* MS in Aerospace Engineering, University of Arizona, 2019
-* BS in Honors Computer Science, University of California at Santa Cruz, 2015
+## Education
+* PhD in Computer Science - _University of Cambridge_ - Expected 2024
+* MS in Aerospace Engineering - _University of Arizona_ 
+* BS in Honors Computer Science -  _University of California, Santa Cruz_
 
-Work Experience
-======
-* RLlib 2022-2023: Software Engineer
-* NASA Jet Propulsion Lab 2018-2019: Graduate Research Intern
-* Meta 2015-2017: Production Engineer
+## Work Experience
+* RLlib - _Software Engineer_
+* NASA Jet Propulsion Lab - _Graduate Research Intern_
+* Meta - _Production Engineer_
   
-Skills
-======
-* Languages
+## Skills
+
+### Languages
   * Python
-  * C/C++
-* Frameworks
-  * Pytorch
-  * Jax
-  * Numpy
-  * ROS
-  * Gymnasium
-  * TorchRL
-  * RLlib
-* Tools
-  * GNU Coreutils
-  * Linux
+  * C, C++
+
+### Frameworks
+  * Pytorch, Jax, Numpy
+  * Gymnasium, TorchRL, RLlib
+  * ROS, ROS2
+
+### Tools
+  * Linux, Bash, GNU Coreutils, Git
+  * SolidWorks
 
 
 
-Publications
-======
+## Publications
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
-======
+## Talks
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
-Teaching
-======
+## Teaching
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and Leadership
-======
+## Service and Leadership
 * ICLR reviewer (2024)
 * NeurIPS reviewer (2023)
