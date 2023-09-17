@@ -11,7 +11,7 @@ title                    : "Steven's Home Page"
 title_separator          : "-"
 name                     : &name "Steven Morad"
 description              : &description "PhD Student in Reinforcement Learning at the University of Cambridge"
-url                      : //smorad.github.io/home # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "//smorad.github.io/home" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "smorad/home"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Steven D. Morad"
   avatar           : "profile.jpg"
-  bio              : "The D stands for \"Danger\""
+  bio              : "Reinforcement learning @Cambridge" #"The D stands for \"Danger\""
   location         : 
   employer         : "University of Cambridge"
   pubmed           : 
