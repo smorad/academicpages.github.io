@@ -9,6 +9,6 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD student working on reinforcement learning in the Prorok Lab at The University of Cambridge, in collaboration with the Toshiba Cambridge Research Lab. My research focus is on partially observable Markov decision processes (POMDPs) and recurrent memory models. I am interested in using long-term memory to produce more capable robots that reason better under uncertainty. 
+I am a PhD student working on reinforcement learning in the Prorok Lab at The University of Cambridge, in collaboration with the Toshiba Cambridge Research Lab. My research focus is on applying deep reinforcement learning to partially observable Markov decision processes (POMDPs) using recurrent models. In other words, I am working to endow intelligent agents with long-term memory capabilities, enabling higher-leve reasoning in our uncertain world.
 
-I completed my master's in aerospace engineering in the Space and Terrestrial Robotic Exploration lab at the University of Arizona. I previously worked on large, distributed software systems at Facebook where I focused on fault tolerance, reliability, and performance. 
+Under a more philosophical lens, I believe that long-term memory is necessary for truly intelligent agents. Our personality, our decisions -- who we ultimately are as people is conditioned on a lifetime of individual experiences. How can you learn from your successes and failures, if you can't remember them?
