@@ -9,6 +9,10 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD student working on reinforcement learning in the Prorok Lab at The University of Cambridge, in collaboration with the Toshiba Cambridge Research Lab. My research focus is on applying deep reinforcement learning to partially observable Markov decision processes (POMDPs) using recurrent models. In other words, I am working to endow intelligent agents with long-term memory capabilities, enabling reasoning under the uncertainty present in the real world.
+I am currently a lecturer of AI at the University of Macau. I did my PhD on deep reinforcement learning in the Prorok Lab at the University of Cambridge, in collaboration with the Toshiba Cambridge Research Lab. 
+
+My research focus is on applying deep reinforcement learning to partially observable Markov decision processes (POMDPs) using recurrent models. In other words, I am working to endow intelligent agents with long-term memory capabilities, enabling reasoning under the uncertainty present in the real world.
 
 Under a more philosophical lens, I believe that long-term memory is necessary for truly intelligent agents. Our personality, our decisions -- who we ultimately are as people is conditioned on a lifetime of individual experiences. How can you learn from your successes and failures, if you can't remember them?
+
+I am currently looking to hire PhD students to work on deep reinforcement learning and robotics. If you are interested, please send an email to smorad at um dot edu dot mo.
