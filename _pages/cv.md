@@ -12,11 +12,13 @@ redirect_from:
 {% include base_path %}
 
 ## Education
-* PhD in Computer Science - _University of Cambridge_ - Expected 2024
+* PhD in Computer Science - _University of Cambridge_ 
 * MS in Aerospace Engineering - _University of Arizona_ 
 * BS in Honors Computer Science -  _University of California, Santa Cruz_
 
 ## Work Experience
+* University of Macau - _Assistant Professor_
+* University of Cambridge - _Adjunct Lecturer_
 * RLlib - _Software Engineer_
 * NASA Jet Propulsion Lab - _Graduate Research Intern_
 * Meta - _Production Engineer_
